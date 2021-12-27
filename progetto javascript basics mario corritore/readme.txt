@@ -1,0 +1,2 @@
+Questo è un esercizio basilare di javascript dove è presente un valore numerico che può essere incrementato o decrementato con due semplici pulsanti.
+github https://github.com/wario86/wario86-progetto-javascript-basics--
